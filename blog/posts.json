@@ -1,0 +1,11 @@
+[
+  {
+    "slug": "the-shortcut-is-the-signal",
+    "title": "The Shortcut Is the Signal: Introducing Friction Intelligence",
+    "date": "2026-07-14",
+    "readTime": "6 min read",
+    "author": "Amgad, Healert",
+    "tags": ["Friction Intelligence", "Backstage Plugin"],
+    "excerpt": "The biggest risk in your cluster usually isn't a sophisticated attack — it's the workaround an operator reached for because the platform made the right way harder than the risky one. The problem, the fix, and the Backstage plugin that surfaces it."
+  }
+]
