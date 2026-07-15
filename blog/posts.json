@@ -7,5 +7,14 @@
     "author": "Israa, Healert Team",
     "tags": ["Friction Intelligence", "Backstage Plugin"],
     "excerpt": "The biggest risk in your cluster usually isn't a sophisticated attack — it's the workaround an operator reached for because the platform made the right way harder than the risky one. The problem and the fix."
+  },
+  {
+    "slug": "meet-coral-why-our-mascot-is-an-axolotl",
+    "title": "Meet Coral: Why Our Mascot Is an Axolotl",
+    "date": "2026-07-15",
+    "readTime": "5 min read",
+    "author": "Amgad, Healert Team",
+    "tags": ["Brand", "v0.1.0 Coral"],
+    "excerpt": "A documentary about a strange Mexican salamander explains our product philosophy better than our pitch deck does — regeneration without scarring, and why friction scores should heal instead of leaving a permanent mark."
   }
 ]
